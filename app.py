@@ -5,7 +5,7 @@ import os
 import json
 import pandas as pd
 
-co = cohere.Client(os.getenv("COHERE_API_KEY"))
+co = cohere.Client(os.getenv("5k2l6NqnbHUuWcsQcSUQW6Xvklw9uFLOqR90hABx"))
 
 # LLM call
 def call_llm(prompt):
